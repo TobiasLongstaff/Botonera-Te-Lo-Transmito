@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2016
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Botonera Te Lo Transmito", "Botonera Te Lo Transmito\Botonera Te Lo Transmito.csproj", "{8B0E461E-4DD5-46B2-8223-4A9B239D6659}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Botonera Te Lo Transmito 2.1.1", "Botonera Te Lo Transmito 2.1.1\Botonera Te Lo Transmito 2.1.1.vdproj", "{3DE3D100-CE2B-4716-A6EC-13E271315216}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Botonera Te Lo Transmito 2.3.0", "Botonera Te Lo Transmito 2.3.0\Botonera Te Lo Transmito 2.3.0.vdproj", "{6726C32C-7C35-434B-A565-1E00D96D3D42}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8B0E461E-4DD5-46B2-8223-4A9B239D6659}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B0E461E-4DD5-46B2-8223-4A9B239D6659}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B0E461E-4DD5-46B2-8223-4A9B239D6659}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B0E461E-4DD5-46B2-8223-4A9B239D6659}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3DE3D100-CE2B-4716-A6EC-13E271315216}.Debug|Any CPU.ActiveCfg = Debug
+		{3DE3D100-CE2B-4716-A6EC-13E271315216}.Release|Any CPU.ActiveCfg = Release
+		{6726C32C-7C35-434B-A565-1E00D96D3D42}.Debug|Any CPU.ActiveCfg = Debug
+		{6726C32C-7C35-434B-A565-1E00D96D3D42}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D268683C-FFF3-40F6-886A-E060B99C7D1C}
+	EndGlobalSection
+EndGlobal

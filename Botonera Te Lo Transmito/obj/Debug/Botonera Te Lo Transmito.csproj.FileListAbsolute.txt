@@ -1,0 +1,79 @@
+C:\Users\tobiL\source\repos\Botonera Te Lo Transmito\Botonera Te Lo Transmito\bin\Debug\Botonera Te Lo Transmito.exe.config
+C:\Users\tobiL\source\repos\Botonera Te Lo Transmito\Botonera Te Lo Transmito\bin\Debug\Botonera Te Lo Transmito.exe
+C:\Users\tobiL\source\repos\Botonera Te Lo Transmito\Botonera Te Lo Transmito\bin\Debug\Botonera Te Lo Transmito.pdb
+C:\Users\tobiL\source\repos\Botonera Te Lo Transmito\Botonera Te Lo Transmito\obj\Debug\Botonera Te Lo Transmito.csprojAssemblyReference.cache
+C:\Users\tobiL\source\repos\Botonera Te Lo Transmito\Botonera Te Lo Transmito\obj\Debug\Botonera_Te_Lo_Transmito.Properties.Resources.resources
+C:\Users\tobiL\source\repos\Botonera Te Lo Transmito\Botonera Te Lo Transmito\obj\Debug\Botonera Te Lo Transmito.csproj.GenerateResource.cache
+C:\Users\tobiL\source\repos\Botonera Te Lo Transmito\Botonera Te Lo Transmito\obj\Debug\Botonera Te Lo Transmito.csproj.CoreCompileInputs.cache
+C:\Users\tobiL\source\repos\Botonera Te Lo Transmito\Botonera Te Lo Transmito\obj\Debug\Botonera Te Lo Transmito.exe
+C:\Users\tobiL\source\repos\Botonera Te Lo Transmito\Botonera Te Lo Transmito\obj\Debug\Botonera Te Lo Transmito.pdb
+C:\Users\tobiL\source\repos\Botonera Te Lo Transmito\Botonera Te Lo Transmito\obj\Debug\Botonera_Te_Lo_Transmito.Botonera.resources
+D:\Botonera Te Lo Transmito\Botonera Te Lo Transmito\bin\Debug\Botonera Te Lo Transmito.exe.config
+D:\Botonera Te Lo Transmito\Botonera Te Lo Transmito\bin\Debug\Botonera Te Lo Transmito.exe
+D:\Botonera Te Lo Transmito\Botonera Te Lo Transmito\bin\Debug\Botonera Te Lo Transmito.pdb
+D:\Botonera Te Lo Transmito\Botonera Te Lo Transmito\obj\Debug\Botonera Te Lo Transmito.csprojAssemblyReference.cache
+D:\Botonera Te Lo Transmito\Botonera Te Lo Transmito\obj\Debug\Botonera_Te_Lo_Transmito.Botonera.resources
+D:\Botonera Te Lo Transmito\Botonera Te Lo Transmito\obj\Debug\Botonera_Te_Lo_Transmito.Properties.Resources.resources
+D:\Botonera Te Lo Transmito\Botonera Te Lo Transmito\obj\Debug\Botonera Te Lo Transmito.csproj.GenerateResource.cache
+D:\Botonera Te Lo Transmito\Botonera Te Lo Transmito\obj\Debug\Botonera Te Lo Transmito.csproj.CoreCompileInputs.cache
+D:\Botonera Te Lo Transmito\Botonera Te Lo Transmito\obj\Debug\Botonera Te Lo Transmito.exe
+D:\Botonera Te Lo Transmito\Botonera Te Lo Transmito\obj\Debug\Botonera Te Lo Transmito.pdb
+C:\Users\DJLongstaff\Desktop\Botonera Te Lo Transmito\Botonera Te Lo Transmito\bin\Debug\Botonera Te Lo Transmito.exe.config
+C:\Users\DJLongstaff\Desktop\Botonera Te Lo Transmito\Botonera Te Lo Transmito\bin\Debug\Botonera Te Lo Transmito.exe
+C:\Users\DJLongstaff\Desktop\Botonera Te Lo Transmito\Botonera Te Lo Transmito\bin\Debug\Botonera Te Lo Transmito.pdb
+C:\Users\DJLongstaff\Desktop\Botonera Te Lo Transmito\Botonera Te Lo Transmito\bin\Debug\Interop.WMPLib.dll
+C:\Users\DJLongstaff\Desktop\Botonera Te Lo Transmito\Botonera Te Lo Transmito\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\DJLongstaff\Desktop\Botonera Te Lo Transmito\Botonera Te Lo Transmito\obj\Debug\Botonera Te Lo Transmito.csprojAssemblyReference.cache
+C:\Users\DJLongstaff\Desktop\Botonera Te Lo Transmito\Botonera Te Lo Transmito\obj\Debug\Interop.WMPLib.dll
+C:\Users\DJLongstaff\Desktop\Botonera Te Lo Transmito\Botonera Te Lo Transmito\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\DJLongstaff\Desktop\Botonera Te Lo Transmito\Botonera Te Lo Transmito\obj\Debug\Botonera Te Lo Transmito.csproj.ResolveComReference.cache
+C:\Users\DJLongstaff\Desktop\Botonera Te Lo Transmito\Botonera Te Lo Transmito\obj\Debug\Botonera_Te_Lo_Transmito.Botonera.resources
+C:\Users\DJLongstaff\Desktop\Botonera Te Lo Transmito\Botonera Te Lo Transmito\obj\Debug\Botonera_Te_Lo_Transmito.Properties.Resources.resources
+C:\Users\DJLongstaff\Desktop\Botonera Te Lo Transmito\Botonera Te Lo Transmito\obj\Debug\Botonera Te Lo Transmito.csproj.GenerateResource.cache
+C:\Users\DJLongstaff\Desktop\Botonera Te Lo Transmito\Botonera Te Lo Transmito\obj\Debug\Botonera Te Lo Transmito.csproj.CoreCompileInputs.cache
+C:\Users\DJLongstaff\Desktop\Botonera Te Lo Transmito\Botonera Te Lo Transmito\obj\Debug\Botonera Te Lo Transmito.exe
+C:\Users\DJLongstaff\Desktop\Botonera Te Lo Transmito\Botonera Te Lo Transmito\obj\Debug\Botonera Te Lo Transmito.pdb
+C:\Users\DJLongstaff\source\repos\Botonera Te Lo Transmito\Botonera Te Lo Transmito\bin\Debug\Botonera Te Lo Transmito.exe.config
+C:\Users\DJLongstaff\source\repos\Botonera Te Lo Transmito\Botonera Te Lo Transmito\bin\Debug\Botonera Te Lo Transmito.exe
+C:\Users\DJLongstaff\source\repos\Botonera Te Lo Transmito\Botonera Te Lo Transmito\bin\Debug\Botonera Te Lo Transmito.pdb
+C:\Users\DJLongstaff\source\repos\Botonera Te Lo Transmito\Botonera Te Lo Transmito\bin\Debug\Interop.WMPLib.dll
+C:\Users\DJLongstaff\source\repos\Botonera Te Lo Transmito\Botonera Te Lo Transmito\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\DJLongstaff\source\repos\Botonera Te Lo Transmito\Botonera Te Lo Transmito\obj\Debug\Botonera Te Lo Transmito.csprojAssemblyReference.cache
+C:\Users\DJLongstaff\source\repos\Botonera Te Lo Transmito\Botonera Te Lo Transmito\obj\Debug\Interop.WMPLib.dll
+C:\Users\DJLongstaff\source\repos\Botonera Te Lo Transmito\Botonera Te Lo Transmito\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\DJLongstaff\source\repos\Botonera Te Lo Transmito\Botonera Te Lo Transmito\obj\Debug\Botonera Te Lo Transmito.csproj.ResolveComReference.cache
+C:\Users\DJLongstaff\source\repos\Botonera Te Lo Transmito\Botonera Te Lo Transmito\obj\Debug\Botonera_Te_Lo_Transmito.Botonera.resources
+C:\Users\DJLongstaff\source\repos\Botonera Te Lo Transmito\Botonera Te Lo Transmito\obj\Debug\Botonera_Te_Lo_Transmito.Properties.Resources.resources
+C:\Users\DJLongstaff\source\repos\Botonera Te Lo Transmito\Botonera Te Lo Transmito\obj\Debug\Botonera Te Lo Transmito.csproj.GenerateResource.cache
+C:\Users\DJLongstaff\source\repos\Botonera Te Lo Transmito\Botonera Te Lo Transmito\obj\Debug\Botonera Te Lo Transmito.csproj.CoreCompileInputs.cache
+C:\Users\DJLongstaff\source\repos\Botonera Te Lo Transmito\Botonera Te Lo Transmito\obj\Debug\Botonera Te Lo Transmito.exe
+C:\Users\DJLongstaff\source\repos\Botonera Te Lo Transmito\Botonera Te Lo Transmito\obj\Debug\Botonera Te Lo Transmito.pdb
+C:\Users\DJLongstaff\source\repos\Botonera Te Lo Transmito\Botonera Te Lo Transmito\bin\Debug\MACTrackBarLib.dll
+C:\Users\DJLongstaff\source\repos\Botonera Te Lo Transmito\Botonera Te Lo Transmito\obj\Debug\Botonera Te Lo Transmito.csproj.CopyComplete
+C:\Users\DJLongstaff\source\repos\Botonera Te Lo Transmito\Botonera Te Lo Transmito\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\Tobias_P\source\repos\Botonera Te Lo Transmito\Botonera Te Lo Transmito\bin\Debug\Botonera Te Lo Transmito.exe.config
+C:\Users\Tobias_P\source\repos\Botonera Te Lo Transmito\Botonera Te Lo Transmito\bin\Debug\Botonera Te Lo Transmito.exe
+C:\Users\Tobias_P\source\repos\Botonera Te Lo Transmito\Botonera Te Lo Transmito\bin\Debug\Botonera Te Lo Transmito.pdb
+C:\Users\Tobias_P\source\repos\Botonera Te Lo Transmito\Botonera Te Lo Transmito\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\Tobias_P\source\repos\Botonera Te Lo Transmito\Botonera Te Lo Transmito\bin\Debug\MACTrackBarLib.dll
+C:\Users\Tobias_P\source\repos\Botonera Te Lo Transmito\Botonera Te Lo Transmito\bin\Debug\Interop.WMPLib.dll
+C:\Users\Tobias_P\source\repos\Botonera Te Lo Transmito\Botonera Te Lo Transmito\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Tobias_P\source\repos\Botonera Te Lo Transmito\Botonera Te Lo Transmito\obj\Debug\Botonera Te Lo Transmito.csprojAssemblyReference.cache
+C:\Users\Tobias_P\source\repos\Botonera Te Lo Transmito\Botonera Te Lo Transmito\obj\Debug\Interop.WMPLib.dll
+C:\Users\Tobias_P\source\repos\Botonera Te Lo Transmito\Botonera Te Lo Transmito\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Tobias_P\source\repos\Botonera Te Lo Transmito\Botonera Te Lo Transmito\obj\Debug\Botonera Te Lo Transmito.csproj.ResolveComReference.cache
+C:\Users\Tobias_P\source\repos\Botonera Te Lo Transmito\Botonera Te Lo Transmito\obj\Debug\Botonera_Te_Lo_Transmito.Botonera.resources
+C:\Users\Tobias_P\source\repos\Botonera Te Lo Transmito\Botonera Te Lo Transmito\obj\Debug\Botonera_Te_Lo_Transmito.Properties.Resources.resources
+C:\Users\Tobias_P\source\repos\Botonera Te Lo Transmito\Botonera Te Lo Transmito\obj\Debug\Botonera Te Lo Transmito.csproj.GenerateResource.cache
+C:\Users\Tobias_P\source\repos\Botonera Te Lo Transmito\Botonera Te Lo Transmito\obj\Debug\Botonera Te Lo Transmito.csproj.CoreCompileInputs.cache
+C:\Users\Tobias_P\source\repos\Botonera Te Lo Transmito\Botonera Te Lo Transmito\obj\Debug\Botonera Te Lo Transmito.csproj.CopyComplete
+C:\Users\Tobias_P\source\repos\Botonera Te Lo Transmito\Botonera Te Lo Transmito\obj\Debug\Botonera Te Lo Transmito.exe
+C:\Users\Tobias_P\source\repos\Botonera Te Lo Transmito\Botonera Te Lo Transmito\obj\Debug\Botonera Te Lo Transmito.pdb
+C:\Users\tobiL\source\repos\Botonera Te Lo Transmito\Botonera Te Lo Transmito\bin\Debug\MACTrackBarLib.dll
+C:\Users\tobiL\source\repos\Botonera Te Lo Transmito\Botonera Te Lo Transmito\bin\Debug\Interop.WMPLib.dll
+C:\Users\tobiL\source\repos\Botonera Te Lo Transmito\Botonera Te Lo Transmito\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\tobiL\source\repos\Botonera Te Lo Transmito\Botonera Te Lo Transmito\obj\Debug\Interop.WMPLib.dll
+C:\Users\tobiL\source\repos\Botonera Te Lo Transmito\Botonera Te Lo Transmito\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\tobiL\source\repos\Botonera Te Lo Transmito\Botonera Te Lo Transmito\obj\Debug\Botonera Te Lo Transmito.csproj.ResolveComReference.cache
+C:\Users\tobiL\source\repos\Botonera Te Lo Transmito\Botonera Te Lo Transmito\obj\Debug\Botonera_Te_Lo_Transmito.EditarBoton.resources
+C:\Users\tobiL\source\repos\Botonera Te Lo Transmito\Botonera Te Lo Transmito\obj\Debug\Botonera Te Lo Transmito.csproj.CopyComplete
